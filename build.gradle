@@ -1,0 +1,8 @@
+plugins {
+  id 'com.typelead.eta.base' version '0.6.1'
+  id 'java'
+}
+
+dependencies {
+  compile project(':HelloEta')
+}

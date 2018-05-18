@@ -1,0 +1,2 @@
+include ':eta'
+project(':eta').name = 'HelloEta'
